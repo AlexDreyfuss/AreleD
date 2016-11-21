@@ -15,5 +15,6 @@ package project.android.com.android5777_9254_6826.model.entities;
 public class Address {
 	public String Country;
 	public String City;
+
 	public String Street;
 }
